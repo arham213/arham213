@@ -41,10 +41,11 @@ Building and shipping production systems across the full stack. Experience spans
 
 ---
 
-## Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
+| [Custom Signup Forms](https://www.bigcommerce.com/apps/custom-signup-forms-by-codinative/) | Published on the BigCommerce App Marketplace — custom merchant onboarding flows with Stripe subscription billing | Next.js, Node.js, Stripe |
 | [Deal Krein — Web](https://github.com/arham213/deal-kroo) | Dealer-to-dealer real estate web platform with OTP auth, property listings, search, and filtering | Next.js, TypeScript, Node.js |
 | [Real-Time Chat System](https://github.com/arham213/chat-app-frontend) | WebSocket-based chat with typing indicators, read/unread state, presence detection, and media sharing | React, TypeScript, Socket.IO |
 | [AI Activity Tracker](https://github.com/arham213/activity-tracker-frontend) | Captures webcam frames at fixed intervals, runs Hugging Face image-to-text inference, streams activity descriptions to a live dashboard | React, TypeScript, FastAPI, Python |
