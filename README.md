@@ -41,14 +41,6 @@ Building and shipping production systems across the full stack. Experience spans
 
 ---
 
-## GitHub Stats
-
-![Arham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arham213&show_icons=true&hide_border=true&hide=stars&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arham213&layout=compact&hide_border=true)
-
----
-
 ## Projects
 
 | Project | Description | Stack |
